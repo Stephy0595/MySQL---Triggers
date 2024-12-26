@@ -5,7 +5,7 @@ Create a table named teachers with the following fields:
   
     id: Unique identifier for each teacher (Primary Key)
 
-     name: Name of the teacher
+    name: Name of the teacher
 
     subject: Subject taught by the teacher
 
