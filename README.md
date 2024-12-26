@@ -13,8 +13,7 @@ Create a table named teachers with the following fields:
 
     salary: Salary of the teacher.
 ### Tasks :
-1. Insert Sample Data
-Insert 8 rows of sample data into the teachers table.
+1. Insert 8 rows of  data into the teachers table.
 
 2. Create before_insert_teacher Trigger
 This trigger will raise an error when an attempt is made to insert a teacher with a negative salary value.
